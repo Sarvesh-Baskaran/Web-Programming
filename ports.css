@@ -1,0 +1,19 @@
+a:link{
+    color:rgb(235, 25, 200);
+}
+a:visited{
+    color:red;
+}
+
+h1{ 
+    color:yellow;
+}
+th, td{
+    background-color:white;
+    border-color:yellow;
+    color:black;
+}
+footer{
+    background-color:grey;
+    color:black;
+}
